@@ -1,0 +1,4 @@
+User-agent: AhrefsBot
+Allow: /
+
+Sitemap: https://CloudRootTech.github.io/invasion-of-privacy-attorney-chagrin-falls/sitemap.xml
